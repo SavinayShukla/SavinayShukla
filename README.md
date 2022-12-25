@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savinay</h1>
 <h3 align="center">My peers often call me "Savvy", if they want free Pizza.</h3>
 
-- Currently working as a **Full Stack Application Developer** at **IBM Consulting**
+- Currently a grad student pusuing **Masters' in Computer Engineering** in **New York University**
 - A ML-DL enthusiast. Exclusively intreseted in Generative Modelling and Recommendation Systems.
 - Open for collaborations. Always happy to help.
 - You can reach me - **savinayshukla@outlook.com**
