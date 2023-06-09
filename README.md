@@ -4,7 +4,7 @@
 - Currently a grad student pusuing **Masters' in Computer Engineering** in **New York University**
 - A ML-DL enthusiast. Exclusively intreseted in Generative Modelling and Recommendation Systems.
 - Open for collaborations. Always happy to help.
-- You can reach me - **savinayshukla@outlook.com**
+- You can reach me - **ss16924@nyu.edu**
 - ⚡ Fun fact : **I installed my first OS at the age of 8.**
 
 <h2 align="left">Connect with me:</h2>
